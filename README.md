@@ -117,5 +117,5 @@ MIT License. Built for PromptWars Hackathon 2026.
 
 
 
-Idea and Promt credit goes to - @autophonia
+Idea and Promt credit goes to - https://github.com/autophonia
 
