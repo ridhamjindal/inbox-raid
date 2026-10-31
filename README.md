@@ -112,5 +112,10 @@ The game will now be live at **`http://localhost:5173`**.
 
 ## 📜 License
 MIT License. Built for PromptWars Hackathon 2026.
+
+
+
+
+
 Idea and Promt credit goes to - @autophonia
 
