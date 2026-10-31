@@ -1,4 +1,4 @@
-const API_BASE = '/api';
+const API_BASE = (import.meta.env.VITE_API_URL as string)?.replace(/\/$/, '') || '/api';
 
 // In-memory session tracking for reliable cross-port cookie bypass
 let currentSessionId: string | null = null;
